@@ -9,6 +9,8 @@ const mostrar = () => {
 
     console.log(`el kilometraje de mi vehiculo es: ${km}km`)
 
+
+    
 }
 
 document.getElementById("btn_mostrar").addEventListener("click",mostrar)
